@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-         <div className=''>a</div>
+         <button className='bg-blue-500 text-white rounded px-5 py-2 hover:bg-blue-400 active:scale-95 transition'>Click me</button>
       </main>
     </>
   )
